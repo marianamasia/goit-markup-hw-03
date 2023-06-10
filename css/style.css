@@ -72,13 +72,13 @@ img {
 
 .header-container {
   display: flex;
-  gap: 40px;
-  /* align-items: center; */
+  /* gap: 40px; */
+  align-items: center;
 }
 
 .header-nav {
-  padding-top: 24px;
-  padding-bottom: 24px;
+  /* padding-top: 24px;
+  padding-bottom: 24px; */
   display: flex;
   align-items: center;
   /* flex-grow: 1;
@@ -262,8 +262,8 @@ img {
 }
 
 .work-list {
-  padding-top: 20px;
-  padding-bottom: 120px;
+  /* padding-top: 20px;
+  padding-bottom: 120px; */
   display: flex;
   gap: 24px;
 }
@@ -289,7 +289,7 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: var(--logo-color);
-  padding-top: 120px;
+  /* padding-top: 120px; */
   margin-bottom: 72px;
 }
 
@@ -310,7 +310,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--logo-color);
   text-align: center;
-  padding-top: 32px;
+  /* padding-top: 32px; */
   margin-bottom: 8px;
 }
 
@@ -325,22 +325,22 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
-  padding-bottom: 32px;
+  /* padding-bottom: 32px; */
 }
 
 /*----------FOOTER-----------*/
 
 .footer {
   background-color: var(--logo-color);
-  height: 312px;
+  /* height: 312px; */
   padding-top: 100px;
   padding-bottom: 100px;
 }
 
 .footer-container {
-  display: block;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  /* display: block; */
+  /* padding-top: 100px;
+  padding-bottom: 100px; */
 }
 
 .footer-name {
@@ -368,8 +368,8 @@ img {
   letter-spacing: 0.02em;
   color: var(--safari-color);
   width: 264px;
-  height: 72px;
-  padding-top: 16px;
+  /* height: 72px;
+  padding-top: 16px; */
 }
 
 /*===============PORTFOLIO===============*/
